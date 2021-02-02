@@ -1,2 +1,2 @@
-# Data_Science_Study
-practice repository for data science study
+# edX Data Science Certification
+repository for edx data science certification
